@@ -4,6 +4,12 @@
   <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/Ralex91/Rahoot/edit/main/README.md&countColor=%2337d67a">
 </p>
 
+## Note: ## 
+This is not my project. I only changed it so it can run with docker and behind a reverse proxy. Please visit the repo of the original creator: [Ralex91 - Rahoot](https://github.com/Ralex91/Rahoot)
+
+This README is not fineished. Please open a issue, if you have any questions.
+
+
 ## 🧩 What is this project?
 
 Rahoot is a straightforward and open-source clone of the Kahoot! platform, allowing users to host it on their own server for smaller events.
@@ -18,8 +24,8 @@ Rahoot is a straightforward and open-source clone of the Kahoot! platform, allow
 
 1.  #### Clone the GitHub repository of your project.
     ```bash
-    git clone https://github.com/Ralex91/Rahoot.git
-    cd ./Rahoot
+    git clone https://github.com/kinba3000/Rahoot-dockerised.git
+    cd ./Rahoot-dockerised
     ```
 2.  #### Install the dependencies using your preferred package manager
 
@@ -102,3 +108,8 @@ const QUIZZ_CONFIG = {
 - Open a pull request.
 
 - Your pull request would be merged and changes will be reflected in the main repository.
+
+
+Todo: 
+- Beschreibung für Github Fork und Version erstellen sowie Github Token usw.
+- Beschriebung wie man Docker laufen lässt.
